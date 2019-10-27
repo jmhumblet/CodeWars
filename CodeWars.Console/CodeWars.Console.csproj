@@ -3,8 +3,8 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp2.2</TargetFramework>
-    <AssemblyName>CodeWars.Console</AssemblyName>
-    <RootNamespace>CodeWars.Console</RootNamespace>
+    <AssemblyName>CodeWars.ConsoleApp</AssemblyName>
+    <RootNamespace>CodeWars.ConsoleApp</RootNamespace>
   </PropertyGroup>
 
 </Project>
