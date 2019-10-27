@@ -2,7 +2,7 @@
 using System.Linq;
 using System.Collections.Generic;
 
-namespace CodeWars.Pins
+namespace CodeWars.Console
 {
     class Program
     {
