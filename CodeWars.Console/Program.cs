@@ -6,11 +6,15 @@ namespace CodeWars.ConsoleApp
     {
         static void Main(string[] args)
         {
-            foreach (var item in GetPins.GetPINs("123"))
+            //GetPins();
+        }
+
+        private static void GetPins()
+        {
+            foreach (var item in ConsoleApp.GetPins.GetPINs("123"))
             {
                 Console.WriteLine(item);
             }
         }
-
     }
 }
